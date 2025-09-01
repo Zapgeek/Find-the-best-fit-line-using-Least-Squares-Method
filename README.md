@@ -47,7 +47,8 @@ RegisterNumber: 212224040239
 ```
 
 ## Output:
-<img width="944" height="721" alt="image" src="https://github.com/user-attachments/assets/09db7869-7394-4367-89e6-788eaa078f2c" />
+<img width="837" height="709" alt="image" src="https://github.com/user-attachments/assets/99bdc3aa-d5c7-4201-8b63-a2832408e165" />
+
 
 
 
